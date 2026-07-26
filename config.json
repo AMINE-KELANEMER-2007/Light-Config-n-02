@@ -6,7 +6,7 @@
 "settings": {
 "clients": [
 {
-"id": "3131c09f-2534-4009-b38f-093ddc0564a9",
+"id": "ce4ca878-ba13-4113-910e-a41d977b2057",
 "level": 0
 }
 ],
@@ -15,7 +15,7 @@
 "streamSettings": {
 "network": "ws",
 "wsSettings": {
-"path": "/wanisakilada"
+"path": "/a_mine_Kl"
 }
 }
 }
